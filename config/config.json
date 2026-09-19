@@ -1,0 +1,15 @@
+{
+  "report_dir": "reports",
+  "scan_timeout": 10,
+  "max_file_size": 5000000,
+  "ignore_paths": [
+    ".git",
+    ".venv",
+    "__pycache__"
+  ],
+  "output_format": "json",
+  "logging_level": "INFO",
+  "ui": {
+    "compact": false
+  }
+}
