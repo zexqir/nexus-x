@@ -120,15 +120,10 @@ The interface is intentionally designed around a clean terminal workflow so secu
 
 ### Clone Repository
 
-```bash
-git clone https://github.com/zexqir/nexus-x.git
-cd nexus-x
-chmod +x install.sh
-./install.sh
 
 ---
 
-## Credits
+### Credits
 
 **NEXUS-X**
 
@@ -137,3 +132,11 @@ Created by **ZEXQIR**
 GitHub: `github.com/zexqir/nexus-x`
 
 Security Assessment Framework for authorized testing and defensive analysis.
+
+
+
+```bash
+git clone https://github.com/zexqir/nexus-x.git
+cd nexus-x
+chmod +x install.sh
+./install.sh
