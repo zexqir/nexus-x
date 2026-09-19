@@ -109,6 +109,23 @@ The screenshot above demonstrates the interactive NEXUS-X terminal interface, in
 
 The interface is intentionally designed around a clean terminal workflow so security practitioners can move between assessment modules without needing multiple unrelated tools or complicated command structures.
 
+## Installation
+
+### Requirements
+
+- Python 3.10+
+- Linux / Kali Linux / Debian-based distribution
+- Git
+- Recommended: virtual environment
+
+### Clone Repository
+
+```bash
+git clone https://github.com/zexqir/nexus-x.git
+cd nexus-x
+chmod +x install.sh
+./install.sh
+
 ---
 
 ## Credits
