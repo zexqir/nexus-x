@@ -92,3 +92,7 @@ Clone the official NEXUS-X repository:
 ```bash
 git clone https://github.com/zexqir/nexus-x.git
 cd nexus-x
+chmod +x install.sh
+./install.sh
+source .venv/bin/activate
+python3 -m nexus.cli
